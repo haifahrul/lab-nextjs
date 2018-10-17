@@ -1,9 +1,8 @@
 import Link from "next/link";
-import Header from "../components/Header";
+import Layout from "../components/MyLayout.js";
 
 const Index = () => (
-  <div>
-    <Header />
+  <Layout>
     <Link href="/about">
       <a style={{ fontSize: 20 }}>About Page</a>
     </Link>
@@ -11,7 +10,7 @@ const Index = () => (
       <button>Go to About Page</button>
     </Link>
     <p> Hello World </p>
-  </div>
+  </Layout>
 );
 
 export default Index;
