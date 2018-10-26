@@ -6,4 +6,4 @@
 [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/next-js)-->
 
 
-Repo ini adalah hasil latihan Saya dengan nextjs. **Silahkan kunjungi situs [nextjs.org/learn](https://nextjs.org/learn) untuk mendapatkan informasi lebih detail tentang Next.js.**
+Repo ini adalah hasil belajar Saya dengan nextjs. **Silahkan kunjungi situs [nextjs.org/learn](https://nextjs.org/learn) untuk mendapatkan informasi lebih detail tentang Next.js.**
